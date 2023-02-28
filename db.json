@@ -1,14 +1,6 @@
 {
   "contacts": [
     {
-      "id": "1677589036895",
-      "name": "Marina",
-      "surname": "Curly",
-      "telephoneNumber": "0123 456 789",
-      "emailAddress": "hello@world.com",
-      "homeAddress": "Purple-34, Netherlands"
-    },
-    {
       "id": "1677589314600",
       "name": "Heva",
       "surname": "Devrish",
@@ -191,6 +183,22 @@
       "telephoneNumber": "0845 273 568 56",
       "emailAddress": "hello@world.com",
       "homeAddress": "Purple 45, London"
+    },
+    {
+      "id": "1677597466877",
+      "name": "Alex",
+      "surname": "Smith",
+      "telephoneNumber": "0567 765 678",
+      "emailAddress": "hello@world.com",
+      "homeAddress": "Purple 45, London"
+    },
+    {
+      "id": "1677597505314",
+      "name": "Alex",
+      "surname": "Smith",
+      "telephoneNumber": "0123 456 7896",
+      "emailAddress": "hello@world.com",
+      "homeAddress": "Yellow 56"
     }
   ]
 }
