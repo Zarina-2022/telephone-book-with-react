@@ -1,0 +1,196 @@
+{
+  "contacts": [
+    {
+      "id": "1677589036895",
+      "name": "Marina",
+      "surname": "Curly",
+      "telephoneNumber": "0123 456 789",
+      "emailAddress": "hello@world.com",
+      "homeAddress": "Purple-34, Netherlands"
+    },
+    {
+      "id": "1677589314600",
+      "name": "Heva",
+      "surname": "Devrish",
+      "telephoneNumber": "0471 476 387 234",
+      "emailAddress": "hi@flowers.com",
+      "homeAddress": "Big Str.22, Scotland"
+    },
+    {
+      "id": "1677589430665",
+      "name": "Will",
+      "surname": "Black",
+      "telephoneNumber": "0123 678 345 56",
+      "emailAddress": "bloom@tree.com",
+      "homeAddress": "Winslet Str.28, London "
+    },
+    {
+      "id": "1677589716632",
+      "name": "Meyrem",
+      "surname": "Guzel",
+      "telephoneNumber": "0358 459 056 02",
+      "emailAddress": "computer@klein.com",
+      "homeAddress": "White Str.33, Germany"
+    },
+    {
+      "id": "1677589036895",
+      "name": "Marina",
+      "surname": "Curly",
+      "telephoneNumber": "0123 456 789",
+      "emailAddress": "hello@world.com",
+      "homeAddress": "Purple-34, Netherlands"
+    },
+    {
+      "id": "1677589160463",
+      "name": "Nurgul",
+      "surname": "Yesim",
+      "telephoneNumber": "0845 273 568",
+      "emailAddress": "hello@world.com",
+      "homeAddress": "Green Str.67, London"
+    },
+    {
+      "id": "1677589222072",
+      "name": "Oya",
+      "surname": "Guzel",
+      "telephoneNumber": "0456 836 492",
+      "emailAddress": "hello@world.com",
+      "homeAddress": "Yellow Str.65, Turkiye"
+    },
+    {
+      "id": "1677589314600",
+      "name": "Heva",
+      "surname": "Devrish",
+      "telephoneNumber": "0471 476 387 234",
+      "emailAddress": "hi@flowers.com",
+      "homeAddress": "Big Str.22, Scotland"
+    },
+    {
+      "id": "1677589430665",
+      "name": "Will",
+      "surname": "Black",
+      "telephoneNumber": "0123 678 345 56",
+      "emailAddress": "bloom@tree.com",
+      "homeAddress": "Winslet Str.28, London "
+    },
+    {
+      "id": "1677589577857",
+      "name": "Alex",
+      "surname": "Wild",
+      "telephoneNumber": "0123 765 987 34",
+      "emailAddress": "cup@thee.com",
+      "homeAddress": "Autumn Str.3, Germany"
+    },
+    {
+      "id": "1677589716632",
+      "name": "Meyrem",
+      "surname": "Sabirli",
+      "telephoneNumber": "0358 459 056 02",
+      "emailAddress": "computer@klein.com",
+      "homeAddress": "White Str.33, Germany"
+    },
+    {
+      "id": "1677590168105",
+      "name": "Walter",
+      "surname": "Scott",
+      "telephoneNumber": "0876 234 765 47",
+      "emailAddress": "hoi@wereld.com",
+      "homeAddress": "Peterpen Str.7, Switzerland"
+    },
+    {
+      "id": "1677589036895",
+      "name": "Marina",
+      "surname": "Curly",
+      "telephoneNumber": "0123 456 789",
+      "emailAddress": "hello@world.com",
+      "homeAddress": "Purple-34, Netherlands"
+    },
+    {
+      "id": "1677589160463",
+      "name": "Nurgul",
+      "surname": "Yesim",
+      "telephoneNumber": "0845 273 568",
+      "emailAddress": "hello@world.com",
+      "homeAddress": "Green Str.67, London"
+    },
+    {
+      "id": "1677589222072",
+      "name": "Oya",
+      "surname": "Guzel",
+      "telephoneNumber": "0456 836 492",
+      "emailAddress": "hello@world.com",
+      "homeAddress": "Yellow Str.65, Turkiye"
+    },
+    {
+      "id": "1677589314600",
+      "name": "Heva",
+      "surname": "Devrish",
+      "telephoneNumber": "0471 476 387 234",
+      "emailAddress": "hi@flowers.com",
+      "homeAddress": "Big Str.22, Scotland"
+    },
+    {
+      "id": "1677589430665",
+      "name": "Will",
+      "surname": "Black",
+      "telephoneNumber": "0123 678 345 56",
+      "emailAddress": "bloom@tree.com",
+      "homeAddress": "Winslet Str.28, London "
+    },
+    {
+      "id": "1677589577857",
+      "name": "Alex",
+      "surname": "Wild",
+      "telephoneNumber": "0123 765 987 34",
+      "emailAddress": "cup@thee.com",
+      "homeAddress": "Autumn Str.3, Germany"
+    },
+    {
+      "id": "1677589716632",
+      "name": "Meyrem",
+      "surname": "Sabirli",
+      "telephoneNumber": "0358 459 056 02",
+      "emailAddress": "computer@klein.com",
+      "homeAddress": "White Str.33, Germany"
+    },
+    {
+      "id": "1677590168105",
+      "name": "Walter",
+      "surname": "Scott",
+      "telephoneNumber": "0876 234 765 47",
+      "emailAddress": "hoi@wereld.com",
+      "homeAddress": "Peterpen Str.7, Switzerland"
+    },
+    {
+      "id": "1677592530886",
+      "name": "Marina",
+      "surname": "Smith",
+      "telephoneNumber": "0987 456 645",
+      "emailAddress": "hello@world.com",
+      "homeAddress": "Green56 street,78"
+    },
+    {
+      "id": "1677592679812",
+      "name": "Alex",
+      "surname": "Smith",
+      "telephoneNumber": "0845 273 568 67",
+      "emailAddress": "hello@world.com",
+      "homeAddress": "Purple 45, London"
+    },
+    {
+      "id": "1677592757131",
+      "name": "Alex",
+      "surname": "Smith",
+      "telephoneNumber": "0845 273 568 78",
+      "emailAddress": "hello@world.com",
+      "homeAddress": "Purple 45, London"
+    },
+    {
+      "id": "1677592910883",
+      "name": "Alex",
+      "surname": "Smith",
+      "telephoneNumber": "0845 273 568 56",
+      "emailAddress": "hello@world.com",
+      "homeAddress": "Purple 45, London"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+Telephone directory
+
+1. Dependencies:
+    - react-router-dom (connect pages)
+    - axios (connect with api)
+    - json-server (fake api)
+    - bootstrap (for page styling)
+    - font-awesome (for icons)
+
+2. Pages:
+
+    - Book cover page:
+        a) Click on title to go to the contact list page.
+            (useNavigate)
+
+    - Home page:
+        *import component ContactList where:
+
+        a) Data:
+            * Name
+            * Surname
+            * Telephone number
+            * E-mail
+            * Home address
+            (axios, useEffect, useState, contacts.map(),key={})
+
+         b) Links:
+            * add new contact (import {Link})
+            * View (id) (import {Link})
+            * Edit (update) (import {Link})         
+
+        c) Buttons:
+            * Delete (id) (onClick={})
+       
+        d) contact search button
+        
+
+    - Add new contact page:
+        * axios.post
+        * Clicking the save button will go to the home page.
+        * Validation: all fields are required
+        
+    - Update page:
+        Clicking the save button will go to the home page.
+    
+    - A separate page of each contact with only its own information
+        * Clicking the Go back button will go to the home page.
+

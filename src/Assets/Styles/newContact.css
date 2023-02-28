@@ -1,0 +1,33 @@
+
+.modal-header, .modal-body, .modal-footer {
+    padding: 20px 30px;
+}
+.modal-content {
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 3px;
+    max-width: 60%;
+}
+.modal-footer {
+    background: #FFFFFF;
+    border-radius: 0 0 3px 3px;
+}
+.modal-title {
+    display: inline-block;
+}
+.form-control {
+    border-radius: 2px;
+    box-shadow: none;
+    border-color: #dddddd;
+}
+textarea.form-control {
+    resize: vertical;
+}
+.btn {
+    border-radius: 5px;
+    min-width: 80px;
+
+}	
+form label {
+    font-weight: bold;
+}	

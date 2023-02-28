@@ -1,0 +1,23 @@
+.ulContainer{
+    display: flex;
+    justify-content: center;
+}
+.pagination li a {
+    border: none;
+    font-size: 13px;
+    min-width: 40px;
+    min-height: 30px;
+    color: #999;
+    line-height: 30px;
+    border-radius: 2px !important;
+    text-align: center;
+}
+.pagination li a:hover{
+    background-color: #286090;
+    color: #fff
+}
+
+.pagination li a:active{
+    background-color: #286090;
+    color: #fff
+}
