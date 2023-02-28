@@ -1,3 +1,26 @@
+<h2>Telephone Book with React.js</h2>
+
+<h3>This site was made by using <b>CSS3</b> and <b>React.js</b>.</h3>
+
+<h3>Additionally I used:
+<p>- <a href="https://icons8.com/"><b>icons8.com</b> </a> (for icons)</p></h3>;
+<h3>- <a href="https://bootdey.com/"><b>Bootday.com</b> </a> (for free Bootstrap snippets) </h3>;
+<h3>- <a href="https://getbootstrap.com/docs/5.3/components/pagination/#overview"><b>Bootstrap</b> </a> (for pagination) </h3>;
+<h3>- <a href="https://icons8.com/"><b>icons8.com</b> </a> (for favicon) </h3>
+
+<h3><b><u>Dependencies:<u><b></h3>
+<h3><b><u>React<u><b> - useState, useEffect, </h3>;
+<h3><b><u>React-router-dom <u><b>- Link, useNavigate, useParams, BrowserRouter, Routes, Route </h3>;
+<h3><b><u>Axios <u><b> - axios</h3>;
+<h3><b><u>Json-server<u><b> - db.json</h3>;
+
+<h3>Preview:</h3>
+
+![](ContactsApp.gif)
+
+Enjoy Coding ❤
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
