@@ -15,7 +15,7 @@
 
 <h3>Preview:</h3>
 
-![](ContactsApp.gif)
+![](phoneApp.gif)
 
 Enjoy Coding ❤
 
